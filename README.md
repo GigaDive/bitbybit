@@ -21,7 +21,12 @@
   <p align="center">
     Passively investing into crypto through round-up's
     <br />
+    <a href="team@bitbybit.money">Request access to Demo</a>
+     &middot;
     <a href="https://bitbybit.money/"><strong>Join the waitlist »</strong></a>
+     <br />
+   
+
     <br />
     <a href="mailto:team@bitbybit.money">View Demo</a>
     &middot;
@@ -303,18 +308,10 @@ We chose **Solana** for:
 
 ---
 
-## 📬 Contact
-
-For partnerships or support, contact us at [support@bitbybit.app](mailto:support@bitbybit.app)
-
----
-
-© BitByBit — All rights reserved.
-
 <!-- CONTACT -->
 ## Contact
 
 Visit us at X - [@bitbybit_money](https://x.com/bitbybit_money) - team@bitbybit.money
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+© BitByBit — All rights reserved.
