@@ -23,12 +23,8 @@
     <br />
     <a href="https://bitbybit.money/"><strong>Join the waitlist »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="mailto:team@bitbybit.money">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -62,12 +58,13 @@
 
 BitByBit automates spare change investments by rounding up everyday purchases and converting them into crypto. It’s fully compliant, user-friendly, and designed to make crypto accumulation effortless.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+**Further Resources:**
 
-
+- [Project Pitch Video](https://www.loom.com/share/4dd7997dc2854a668cff029f20a7022d?sid=bed4a354-f170-4fc4-a04c-3c2f8b7172d7)
+- [Introduction by Mickey and Tobi](https://www.youtube.com/watch?v=Y_P_xHP7ObA&feature=youtu.be)
+- [App Demo](https://www.youtube.com/shorts/B0yWZm9Udk8)
+- [Simplified Pitchdeck Colosseum Hackathon](https://docs.google.com/presentation/d/1NBhqBm40-xloo2cgXFmCHPGuaFPpIWaB/edit?usp=sharing&ouid=110465918428847718246&rtpof=true&sd=true)
+- [Pitch Deck](pitch-decks\for_investors-Crypto-Portfolios-One-Purchase-at-a-Time.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
