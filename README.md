@@ -62,7 +62,7 @@ BitByBit automates spare change investments by rounding up everyday purchases an
 **Further Resources:**
 
 - [Project Pitch Video](https://www.loom.com/share/4dd7997dc2854a668cff029f20a7022d?sid=bed4a354-f170-4fc4-a04c-3c2f8b7172d7)
-- [Introduction by Mickey and Tobi](https://www.youtube.com/watch?v=Y_P_xHP7ObA&feature=youtu.be)
+- [Introduction by Mickey and Tobi](https://www.youtube.com/watch?v=mRHtn_wN7hA)
 - [App Demo](https://www.youtube.com/shorts/B0yWZm9Udk8)
 - [Simplified Pitchdeck Colosseum Hackathon](https://docs.google.com/presentation/d/1NBhqBm40-xloo2cgXFmCHPGuaFPpIWaB/edit?usp=sharing&ouid=110465918428847718246&rtpof=true&sd=true)
 - [Pitch Deck](pitch-decks/for_investors-Crypto-Portfolios-One-Purchase-at-a-Time.pdf)
