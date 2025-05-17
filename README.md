@@ -25,11 +25,7 @@
      &middot;
     <a href="https://bitbybit.money/"><strong>Join the waitlist »</strong></a>
      <br />
-   
-
-    <br />
-    <a href="mailto:team@bitbybit.money">View Demo</a>
-    &middot;
+  
   </p>
 </div>
 
